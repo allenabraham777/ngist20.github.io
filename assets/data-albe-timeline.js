@@ -1,7 +1,7 @@
 //Json Object
 var data = [
 	{
-		time: '2018-04-30',
+		time: '15-Feb-2019',
 		body: [{
 			tag: 'h3',
 			content: '',
@@ -11,7 +11,7 @@ var data = [
 		},
 		{
 			tag: 'span',
-			content: 'Last date for full paper submission',
+			content: 'Call for Papers Announcement',
 			attr: {
 				cssclass: 'group-sub-title'
 			}
@@ -23,7 +23,7 @@ var data = [
 	},
 
 	{
-		time: '2018-06-06',
+		time: '01-May-2019',
 		body: [{
 			tag: 'h3',
 			content: '',
@@ -33,7 +33,7 @@ var data = [
 		},
 		{
 			tag: 'span',
-			content: 'Intimation of acceptance',
+			content: 'Draft Paper Submission',
 			attr: {
 				cssclass: 'group-sub-title'
 			}
@@ -44,7 +44,7 @@ var data = [
 		}]
 	},
 	{
-		time: '2018-06-30',
+		time: '01-July-2019',
 		body: [{
 			tag: 'h3',
 			content: '',
@@ -54,7 +54,7 @@ var data = [
 		},
 		{
 			tag: 'span',
-			content: 'Last date of camera ready paper submission',
+			content: 'Notification of Acceptance',
 			attr: {
 				cssclass: 'group-sub-title'
 			}
@@ -65,7 +65,7 @@ var data = [
 		}]
 	},
 	{
-		time: '2018-06-15',
+		time: '15-July-2019',
 		body: [{
 			tag: 'h3',
 			content: '',
@@ -75,7 +75,7 @@ var data = [
 		},
 		{
 			tag: 'span',
-			content: 'Last date for registration',
+			content: 'Final Camera-ready Paper',
 			attr: {
 				cssclass: 'group-sub-title'
 			}
@@ -84,7 +84,7 @@ var data = [
 			tag: 'p',
 			content: ''
 		}]
-	},
+	}/*,
 	{
 		time: '2018-07-19',
 		body: [{
@@ -126,7 +126,7 @@ var data = [
 			tag: 'p',
 			content: ''
 		}]
-	}];
+	}*/];
 
 $(document).ready(function () {
 
