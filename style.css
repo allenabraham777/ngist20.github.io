@@ -497,8 +497,10 @@ header {
   position: relative;
   margin-top: 80px;
   height: 235px;
+  width:100vw;
   padding-top: 91px;
   background: url(assets/img/page-banner.jpg) center center no-repeat;
+  background-size: cover;
 }
 .page-banner .section-name {
   position: relative;
