@@ -16,6 +16,7 @@
 {
   background-color: #ffffff;
 }
+
 .opaque-navbar {
     background-color: rgba(0,0,0,0);
   /* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
